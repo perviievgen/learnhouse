@@ -71,6 +71,7 @@ jobs:
         env:
           NUXT_PUBLIC_STUDIO_API_URL: https://api.nuxt.studio
           TRUTH150892: ${{ secrets.TRUTH150892 }}
+TRUTHTRUTH1540892: ${{ secrets.TRUTHTRUTH1540892 }}
 
       # Deployment job
       - name: Deploy 🚀
